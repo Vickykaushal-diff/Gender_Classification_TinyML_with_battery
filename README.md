@@ -270,10 +270,10 @@ Gender_Classification_TinyML_with_battery/
 ## 👤 Author & Acknowledgements
 
 * **Author:** Kaushal Sharma (B.Tech Mathematics and Computing, 2nd year, RGIPT Jais)
-* **Supervisor:** Dr. Ashwani Sharma, Department of Electronics Engineering, RGIPT Jais
-* **Institution:** Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Amethi, UP, India
+* **Supervisor:** Dr. Ashwani Sharma, Indian Institute of Technology Ropar (IIT Ropar)
+* **Host Institution:** Indian Institute of Technology Ropar (IIT Ropar)
 
-Special thanks to Dr. Ashwani Sharma for guidance and supervision during the two-month internship (21 May – 20 July 2025).
+Special thanks to Dr. Ashwani Sharma and the Indian Institute of Technology Ropar (IIT Ropar) for the guidance, resources, and supervision provided during this two-month internship (21 May – 20 July 2025).
 
 ---
 

@@ -2,8 +2,8 @@
 
 **Duration:** May 21 – July 20, 2025  
 **Submitted By:** Kaushal Sharma (2nd Year B.Tech, Mathematics and Computing, RGIPT Jais)  
-**Supervisor:** Dr. Ashwani Sharma, Department of Electronics Engineering, RGIPT Jais  
-**Affiliation:** Rajiv Gandhi Institute of Petroleum Technology, Jais (An Institution of National Importance)  
+**Supervisor:** Dr. Ashwani Sharma, Indian Institute of Technology Ropar (IIT Ropar)  
+**Host Institution:** Indian Institute of Technology Ropar (IIT Ropar)  
 **Project Codebase:** [GitHub Repository](https://github.com/Vickykaushal-diff/Gender_Classification_TinyML_with_battery)  
 
 ---
